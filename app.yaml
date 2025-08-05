@@ -1,0 +1,13 @@
+runtime: python312
+entrypoint: uvicorn main:app --host 0.0.0.0 --port $PORT
+
+automatic_scaling:
+  min_instances: 0
+  max_instances: 1 
+  max_concurrent_requests: 10  # Limit concurrent requests
+  max_pending_latency: 1s  # Drop requests if queue is long
+
+env_variables:
+  PROJECT_ID: "deliverables-context"
+  ENVIRONMENT: "production"
+  GAE_ENV: "standard"

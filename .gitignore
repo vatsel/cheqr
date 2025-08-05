@@ -1,0 +1,10 @@
+.venv/
+*__pycache__/
+*.DS_Store
+*.egg-info
+secrets/ 
+notes/
+
+output-test/
+logs/
+all unit9 gmail data/

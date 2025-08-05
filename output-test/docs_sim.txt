@@ -1,0 +1,41 @@
+== Deliverables ==
+
+Intro Animation
+   Spec: Animation for project introduction
+   Status: Approved by client in early June
+   Submitted: Yes
+   Approved: Yes
+   Due on: Not specified
+   Assigned to: Mark Vatsel <mark.vatsel@unit9.com>
+
+Universe Map Animation
+   Spec: Universe map animation, 10MB export size, 1750x1950 resolution
+   Status: Final version delivered July 15th, client confirmed good to go
+   Submitted: Yes
+   Approved: Yes
+   Due on: Multiple iterations through July
+   Assigned to: Mark Vatsel <mark.vatsel@unit9.com>
+
+Zone Transition Animations
+   Spec: Animations for Fan Shop, Arcade, and Deals zones in English and Arabic, multiple file sizes (1MB, 2-3MB, 5MB), 6 seconds max duration
+   Status: Final versions with Arabic McDonald's logo delivered July 15th, client confirmed good to go
+   Submitted: Yes
+   Approved: Yes
+   Due on: 2025-07-15 00:00:00
+   Assigned to: Mark Vatsel <mark.vatsel@unit9.com>
+
+UI Screen Designs
+   Spec: Screen designs for all zones including Fan Shop, Arcade, and Deals with wireframes, delivered in Figma format
+   Status: 5th iteration delivered July 14th, updated July 31st, awaiting final client confirmation
+   Submitted: Yes
+   Approved: No
+   Due on: 2025-07-14 00:00:00
+   Assigned to: Mark Vatsel <mark.vatsel@unit9.com>
+
+Swipe Transition Variations
+   Spec: Transition variations for development team
+   Status: Delivered June 30th for development team use
+   Submitted: Yes
+   Approved: No
+   Due on: 2025-06-30 00:00:00
+   Assigned to: Mark Vatsel <mark.vatsel@unit9.com>
