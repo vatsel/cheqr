@@ -4,8 +4,9 @@ Cheqr reads Gmail threads and extracts what's been promised vs delivered, so tha
 
 Built as a FastAPI server it ingests email threads to turn them into structured deliverables using the Anthropic API, backed by PostgreSQL and deployed on Google App Engine.
 
-## Product Page (not yet live)
+## Product Page 
 https://cheqr.vatsel.com
+(can't install yet)
 
 ## How it works
 
